@@ -1,2 +1,6 @@
 # PythonLoop
-This repo show how does the loop and function work in python
+This repo show the basic functionality of python.
+list
+string
+loops
+conditional
